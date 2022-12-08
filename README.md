@@ -6,7 +6,9 @@
 
 I'm Reza, a 23 years old web developer from Mashhad, Iran.
 
-- 🧭 Frontend Developer at [Fanap Soft](https://www.linkedin.com/company/fanapsoft)
+- 🧭 Front-End Developer at [Dotin](https://www.linkedin.com/company/dotin/) (2022 - Present)
+- 🧭 Front-End Developer at [Fanap Soft](https://www.linkedin.com/company/fanapsoft) (2021 - 2022)
+
 
 ## Skills
 
